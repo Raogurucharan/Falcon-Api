@@ -8,9 +8,9 @@ class ObjRequstClass:
         data = json.loads(req.stream.read())
 
         content = {
-            'name' : 'Paris',
-            'age' : '31',
-            'country' : 'Denmark'
+            'name' : 'Luke Skywalker',
+            'age' : '20',
+            'country' : 'India'
         }
 
         output = {}
