@@ -9,8 +9,8 @@ class ObjRequstClass:
 
         content = {
             'name' : 'Luke Skywalker',
-            'age' : '20',
-            'country' : 'India'
+            'age' : '25',
+            'country' : 'Tatooine'
         }
 
         output = {}
